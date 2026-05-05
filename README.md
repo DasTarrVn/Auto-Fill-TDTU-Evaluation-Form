@@ -1,25 +1,25 @@
-## 📥 Installation Guide
+## Installation Guide
 
-Since this extension is not yet published on the Chrome Web Store, you will need to install it manually using "Developer mode". Don't worry, it only takes a minute!
+As this extension is not currently hosted on the Chrome Web Store, manual installation via Developer Mode is required. Please follow the instructions below:
 
-**Step 1: Download the Extension**
-* Go to the [Latest Release page](https://github.com/DasTarrVn/Auto-Fill-TDTU-Evaluation-Form/releases/latest).
-* Under the **Assets** section, click on `AutoSurVeyTDTU.zip` to download it to your computer.
+**Step 1: Download the Release**
+* Navigate to the [Latest Release page](https://github.com/DasTarrVn/Auto-Fill-TDTU-Evaluation-Form/releases/latest).
+* Under the **Assets** section, download the `AutoSurVeyTDTU.zip` file to your local machine.
 
-**Step 2: Extract the File**
-* Right-click the downloaded `.zip` file and select **Extract All...** (or use your preferred unzipping tool). 
-* Note: Remember the location of this extracted folder.
+**Step 2: Extract the Archive**
+* Right-click the downloaded `.zip` file and select **Extract All...** to unpack the contents.
+* Note the directory path of the extracted folder for later use.
 
-**Step 3: Open Extension Management in your Browser**
-* Open your Chromium-based browser (Google Chrome, Microsoft Edge, Brave, etc.).
-* Type `chrome://extensions/` (for Chrome) or `edge://extensions/` (for Edge) into the address bar and press **Enter**.
+**Step 3: Access Extension Management**
+* Open a Chromium-based browser (e.g., Google Chrome, Microsoft Edge, or Brave).
+* Navigate to the extensions page by entering `chrome://extensions/` (for Chrome) or `edge://extensions/` (for Edge) into the address bar.
 
 **Step 4: Enable Developer Mode**
-* Look for the **Developer mode** toggle switch (usually located in the top right corner of the page) and turn it **ON**.
+* Locate the **Developer mode** toggle, typically found in the top right corner of the page, and switch it to the **ON** position.
 
-**Step 5: Load the Extension**
-* Click the **"Load unpacked"** button that appears in the top left area.
-* A file browser window will open. Select the folder you extracted in **Step 2** (Make sure you select the folder that directly contains the `manifest.json` file).
+**Step 5: Load the Unpacked Extension**
+* Click the **Load unpacked** button that appears in the top left area.
+* A file dialog will open. Navigate to the folder you extracted in **Step 2** and select it. (Ensure the selected directory directly contains the `manifest.json` file).
 * Click **Select Folder**.
 
-🎉 **That's it!** The extension should now appear in your list of installed extensions and is ready to automatically fill out the evaluation forms for you.
+The extension is now successfully installed and will appear in your active extensions list, ready to automate the evaluation form process.
