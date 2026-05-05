@@ -3,7 +3,7 @@
 As this extension is not currently hosted on the Chrome Web Store, manual installation via Developer Mode is required. Please follow the instructions below:
 
 **Step 1: Download the Release**
-* Navigate to the [Latest Release page](https://github.com/DasTarrVn/Auto-Fill-TDTU-Evaluation-Form/releases/latest).
+* Navigate to the [Release page](https://github.com/DasTarrVn/Auto-Fill-TDTU-Evaluation-Form/releases).
 * Under the **Assets** section, download the `AutoSurVeyTDTU.zip` file to your local machine.
 
 **Step 2: Extract the Archive**
