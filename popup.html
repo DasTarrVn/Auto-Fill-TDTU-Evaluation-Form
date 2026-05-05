@@ -9,6 +9,8 @@
     select, button { width: 100%; padding: 8px; margin-top: 10px; cursor: pointer; border-radius: 4px; box-sizing: border-box; }
     .main-btn { background-color: #007bff; color: white; border: none; font-weight: bold; }
     .main-btn:hover { background-color: #0056b3; }
+    .checkbox-container { display: flex; align-items: center; justify-content: flex-start; margin-top: 12px; font-size: 14px; color: #333; }
+    .checkbox-container input { margin-right: 8px; cursor: pointer; width: 16px; height: 16px; }
   </style>
 </head>
 <body>
@@ -25,6 +27,12 @@
     <option value="rd1">Level 2 (Disagree)</option>
     <option value="rd0">Level 1 (Totally disagree)</option>
   </select>
+  
+  <div class="checkbox-container">
+    <input type="checkbox" id="autoSubmit">
+    <label for="autoSubmit">Auto submit the form</label>
+  </div>
+
   <button id="fillBtn" class="main-btn">Fill Form Now</button>
   
   <script src="popup.js"></script>

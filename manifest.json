@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Auto Fill TDTU Evaluation Form",
-  "version": "1.3",
+  "version": "1.4",
   "description": "An extension to select an evaluation level and automatically fill out the lecturer evaluation form.",
   "permissions": [
     "activeTab",
