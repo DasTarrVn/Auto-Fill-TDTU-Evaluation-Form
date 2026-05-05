@@ -22,4 +22,3 @@ As this extension is not currently hosted on the Chrome Web Store, manual instal
 * A file dialog will open. Navigate to the folder you extracted in **Step 2** and select it. (Ensure the selected directory directly contains the `manifest.json` file).
 * Click **Select Folder**.
 
-The extension is now successfully installed and will appear in your active extensions list, ready to automate the evaluation form process.
